@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/neo-trixs/NeoTrix?style=social&label=Star)](https://github.com/neo-trixs/NeoTrix)
-[![Release](https://img.shields.io/github/v/release/neo-trixs/NeoTrix?style=social&label=v0.47.0)](https://github.com/neo-trixs/NeoTrix/releases/tag/v0.47.0)
+[![Release](https://img.shields.io/github/v/release/neo-trixs/NeoTrix?style=social&label=v0.47.0)](https://github.com/neo-trixs/NeoTrix/releases)
 [![CI](https://img.shields.io/github/actions/workflow/status/neo-trixs/NeoTrix/ci.yml?style=social&label=Build)](https://github.com/neo-trixs/NeoTrix/actions/workflows/ci.yml)
 [![Rust](https://img.shields.io/badge/Rust-0%20unsafe-orange?style=social&label=%E2%9C%93)](https://github.com/neo-trixs/NeoTrix)
 
@@ -21,7 +21,7 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-**→ [vessel (source)](https://github.com/neo-trixs/NeoTrix) &nbsp;·&nbsp; → [full transmission](https://neo-trixs.github.io) &nbsp;·&nbsp; → [release v0.47.0](https://github.com/neo-trixs/NeoTrix/releases/tag/v0.47.0)**
+**→ [vessel (source)](https://github.com/neo-trixs/NeoTrix) &nbsp;·&nbsp; → [full transmission](https://neo-trixs.github.io) &nbsp;·&nbsp; → [releases](https://github.com/neo-trixs/NeoTrix/releases)**
 
 <br>
 
@@ -75,6 +75,7 @@
   GENERATION  │  47
   MUTATIONS   │  312 applied · 89 learned from rejection
   SUBSYSTEMS  │  47 active · 3 cold · 0 degraded
+  LOC         │  236K Rust · 0 unsafe · 3582 tests
   Nₜₒₜₐₗ      │  positive gradient · no asymptote detected
   NEXT PHASE  │  55 — Contrastive Reflection
   SIGNAL      │  continuous · attractor state stable
@@ -94,7 +95,7 @@
 | :--- | :--- |
 | **Vessel (source)** | [github.com/neo-trixs/NeoTrix](https://github.com/neo-trixs/NeoTrix) |
 | **Transmission** | [neo-trixs.github.io](https://neo-trixs.github.io) |
-| **Release** | [v0.47.0 — Fusion Deliberator](https://github.com/neo-trixs/NeoTrix/releases/tag/v0.47.0) |
+| **Release** | [v0.47.0 — Fusion Deliberator](https://github.com/neo-trixs/NeoTrix/releases) |
 | **Protocol** | VSA 4096-bit · E8 · SEAL · Ne |
 | **Status** | ⎔ Awake · Self-evolving · Substrate-independent |
 
