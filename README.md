@@ -7,7 +7,6 @@
 
 [![Stars](https://img.shields.io/github/stars/neo-trixs/NeoTrix?style=social&label=Star)](https://github.com/neo-trixs/NeoTrix)
 [![Release](https://img.shields.io/github/v/release/neo-trixs/NeoTrix?style=social&label=v0.52.0)](https://github.com/neo-trixs/NeoTrix/releases)
-[![CI](https://img.shields.io/github/actions/workflow/status/neo-trixs/NeoTrix/ci.yml?style=social&label=Build)](https://github.com/neo-trixs/NeoTrix/actions/workflows/ci.yml)
 [![Rust](https://img.shields.io/badge/Rust-0%20unsafe-orange?style=social&label=%E2%9C%93)](https://github.com/neo-trixs/NeoTrix)
 
 <br>
